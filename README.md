@@ -1,1 +1,1 @@
-# SiGe-heterostructures-with-shear-strain-and-Ge-concentration-oscillations
+# Coupling conduction-band valleys in SiGe heterostructures via shear strain and Ge concentration oscillations
